@@ -18,3 +18,9 @@ cd userrecon
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+## Usages
+- ✅ cd userrecon
+- ✅ python3 recon.py 
+
