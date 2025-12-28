@@ -69,8 +69,12 @@ def check_username(username: str) -> Tuple[Dict[str, str], List[str]]:
     
     return found_platforms, error_platforms
 
-if __name__ == "__main__":
-    print("Username Checker")
+    
+
+
+def main():
+    
+    print("Userrecon")
     print("=" * 50)
     
     while True:
@@ -84,3 +88,6 @@ if __name__ == "__main__":
             check_username(username)
         else:
             print("[!] Please enter a valid username")
+
+if __name__ == "__main__":
+    main()
