@@ -11,7 +11,7 @@ A Python tool to check if a username exists on multiple online platforms.
 
 ## Installation
 
-'''bash'''
+```bash
 # Clone the repository
 git clone https://github.com/cyberwithpriyanshu/userrecon.git
 cd userrecon
