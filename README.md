@@ -3,7 +3,7 @@
 A Python tool to check if a username exists on multiple online platforms.
 
 ## Features
-- ✅ Check 100+ platforms simultaneously
+- ✅ Check 75 platforms simultaneously
 - ✅ Real-time status reporting
 - ✅ Error handling for timeouts and connection issues
 - ✅ Clean, organized output with summaries
